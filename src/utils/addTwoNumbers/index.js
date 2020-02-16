@@ -1,3 +1,3 @@
-import addTwoNumbers from './addTwoNumbers'
+import addTwoNumbers from './addTwoNumbers';
 
 export default addTwoNumbers

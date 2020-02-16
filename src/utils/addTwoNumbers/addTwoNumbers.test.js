@@ -21,6 +21,6 @@ describe('test addTwoNumbers function', () => {
   })
 
   it('with params 2 and 2', () => {
-    expect(addTwoNumbers(2,2).toBe(4))
+    expect(addTwoNumbers(2,2)).toBe(4)
   })
 })
